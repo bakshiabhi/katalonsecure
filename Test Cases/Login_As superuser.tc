@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_As superuser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da87b022-5304-42ea-9b55-e202cc15416c</testCaseGuid>
+   <variable>
+      <defaultValue>'superuser'</defaultValue>
+      <description>username super</description>
+      <id>a6f305f1-83bf-4f88-bb4b-2764c2d49893</id>
+      <masked>false</masked>
+      <name>superuser</name>
+   </variable>
+   <variable>
+      <defaultValue>'Passw0rd#'</defaultValue>
+      <description>password</description>
+      <id>a5d7b091-273e-470d-a158-2b2e3c5edc6b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://r-uklo-pd01.int.appriss.com/secure/cpf/core/logon?i=4&amp;url=/secure/portal#/0'</defaultValue>
+      <description>which url</description>
+      <id>99569835-a321-44dd-a7d1-37132e0e9518</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
